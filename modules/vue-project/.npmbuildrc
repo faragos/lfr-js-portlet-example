@@ -1,0 +1,13 @@
+{
+	"translatorTextKey": "",
+	"supportedLocales": [],
+	"liferayDir": "C:\\Users\\men\\Downloads\\liferay-ce-portal-tomcat-7.3.2-ga3-20200519164024819\\liferay-ce-portal-7.3.2-ga3",
+	"webpack": {
+		"rules": [
+			{
+				"test": "src\\\\.*\\.js$",
+				"use": "babel-loader"
+			}
+		]
+	}
+}
